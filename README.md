@@ -11,3 +11,6 @@ Using APIs to Visualize Weather Data
 **Marker Layer Map for Travel Itinerary**
   - Further usage of the Google Maps API resulted in the creation of a travel itinerary. By enabling the "Directions API" in the Google account and importing the previous weather, cities, and hotel dataframes, an itinerary is made by writing code that creates a starting and ending point that is the same city, and three other cities that are way points for the route. Gmaps documentation is used to the directions layer map presented below. 
 ![](images/WeatherPy_travel_map.png)
+
+  - A marker layer map with a pop-up marker for each city in the travel itinerary was created in order to cleanly depict the locations of our itinerary on Google maps. An image of the marker layer map with pop-up marker is provided below.
+![](images/WeatherPy_travel_map_markers.png)
