@@ -5,5 +5,5 @@ Using APIs to Visualize Weather Data
 ![](images/Vacation_search_dataframe.png)
 
 **Marker Layer Map**
-  - From the Weather dataframe, a marker layer map was then able to be created. The marker layer map is a function of the Google Maps API, which allowed for a heat layer map to be created and incorporated in order to support the search criteria code that was used for hotel selection based on weather conditions. The heat layer map provided a visual for app users to identify ideal conditions suited for their vacation preferences based on temperature and overall weather conditions. The image below depicts the Google API heat layer marker maps.
+  - From the Weather dataframe, a marker layer map was then able to be created. The marker layer map is a function of the Google Maps API that provided pop-ups of locations of hotels that fit a search criteria. A heat layer map was also used for the Google Maps API to support the search criteria code that used temperature to help search for hotels. The heat layer map provided a visual for app users to identify ideal conditions suited for their vacation preferences based not only on temperature, but also overall weather conditions. The image below depicts the Google API heat layer marker map.
 ![](images/WeatherPy_vacation_map.png)
